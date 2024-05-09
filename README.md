@@ -1,6 +1,6 @@
-# zap653
+# Pocket Poetry
 
-Primera app
+Poetry app
 
 ## Getting Started
 
